@@ -241,6 +241,7 @@
 - [faisal Rasheed](https://github.com/faisal-rasheed-lone)
 - [Fatima Aamir] (https://github.com/fatima-aamir)
 - [Masoud Farmani](https://github.com/MasoudIV)
+- [Pramit Sil](https://github.com/pramit091104)
 - [Olowo Jude](https://github.com/olowojude)
 - [Joana Lawer](https://github.com/joanalawer)
 - [Alison Haas](https://github.com/alihaas)
